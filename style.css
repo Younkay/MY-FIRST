@@ -45,7 +45,7 @@ body {
    font-weight: 500;
    font-family: montserrat;
    background-color: rgba(0, 0, 0, 0.79);
-   background-image: url("./img/Ellipse\ 1.svg"), url("./img/Ellipse\ 2.svg"), url(/img/cu.svg);
+   background-image: url("Ellipse\ 1.svg"), url("Ellipse\ 2.svg"), url("cu.svg");
    background-repeat: no-repeat;
    background-position: 50%;
 
