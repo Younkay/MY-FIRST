@@ -127,6 +127,7 @@ ul {
    pointer-events: none; */
    position: relative;
    display: block;
+   margin-bottom: 150px;
 
 }
 
@@ -174,9 +175,7 @@ li {
 
 
 
-.nav {
-   margin-bottom: 150px;
-}
+
 
 footer {
    display: flex;
